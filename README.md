@@ -1,6 +1,6 @@
-# Web Development Project 7 - *Name of App Here*
+# Web Development Project 7 - *Dungeon Party*
 
-Submitted by: **Your Name Here**
+Submitted by: **Joshua Linang**
 
 This web app: **Dungeon Party**
 
